@@ -16,7 +16,7 @@ Users should be able to:
 
 ### Screenshot
 
-![Desktop design preview for the Tip Calculator App coding challenge](./design/desktop-preview.jpg)
+![Desktop design preview for the Tip Calculator App coding challenge](./design/desktop-design-preview.jpg)
 
 ![Mobile design preview for the Tip Calculator App coding challenge](./design/mobile-preview-screenshot.jpg)
 
